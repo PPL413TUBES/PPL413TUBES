@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="google-site-verification=2I20DdpzrBYl4riUAnjG8Bul9FpWdpW_vRsOauM2xcU" />
     <title>Welcome to Studify!</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
